@@ -1,0 +1,3 @@
+[submodule "gtrackcore"]
+	path = gtrackcore
+	url = https://github.com/elixir-no-nels/gtrackcore.git
