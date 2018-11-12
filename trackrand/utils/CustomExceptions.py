@@ -1,0 +1,2 @@
+class LackingTsResultsError(Exception):
+    pass
